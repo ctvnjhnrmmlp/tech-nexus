@@ -164,7 +164,7 @@ export default function Home() {
 				<div className='flex flex-col justify-center items-center w-full space-y-4'>
 					<div>
 						<p className='text-center font-bold text-neutral-600 text-xl'>
-							Be part of this year's Campus Summit!
+							{`Be part of this year's Campus Summit!`}
 						</p>
 					</div>
 					<div className='w-48'>
